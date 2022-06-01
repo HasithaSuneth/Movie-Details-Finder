@@ -39,4 +39,4 @@ Users need to get their <b>API key</b> from <b>"http://www.omdbapi.com/apikey.as
 ## Technical Details
 - Database - OMDb API (http://www.omdbapi.com/)
 - Support operating systems (Tested) - Windows, Linux (Ubuntu)
-- File Size - 70MB
+- File Size - 38MB
